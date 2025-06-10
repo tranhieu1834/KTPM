@@ -1,0 +1,288 @@
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Nhom7.dll.config
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Nhom7.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Nhom7.pdb
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\csc.exe
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\csc.exe.config
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\csc.rsp
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\csi.exe
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\csi.exe.config
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\csi.rsp
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.AppContext.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Console.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.IO.Compression.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Net.Http.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Net.Sockets.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.ValueTuple.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Xml.XPath.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\vbc.exe
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\vbc.exe.config
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\vbc.rsp
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\VBCSCompiler.exe
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Antlr3.Runtime.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Newtonsoft.Json.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\System.Web.Optimization.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\WebGrease.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\System.Web.Optimization.xml
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Newtonsoft.Json.xml
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Antlr3.Runtime.pdb
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.AssemblyReference.cache
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.CoreCompileInputs.cache
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.Up2Date
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\obj\Debug\Nhom7.dll
+C:\Users\84335\Documents\Kì 5\Phát triển ứng dụng thương mại điện tử\Nhom7\Nhom7\obj\Debug\Nhom7.pdb
+D:\testvite\test1\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.AssemblyReference.cache
+D:\testvite\test1\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.CoreCompileInputs.cache
+D:\testvite\test1\Nhom7\Nhom7\bin\Nhom7.dll.config
+D:\testvite\test1\Nhom7\Nhom7\bin\Nhom7.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\Nhom7.pdb
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\csc.exe
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\csc.exe.config
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\csc.rsp
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\csi.exe
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\csi.exe.config
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\csi.rsp
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.Managed.Core.targets
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.AppContext.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Collections.Immutable.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Console.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Globalization.Calendars.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.IO.Compression.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.IO.FileSystem.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Net.Http.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Net.Sockets.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Reflection.Metadata.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.ValueTuple.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Xml.XmlDocument.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Xml.XPath.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\vbc.exe
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\vbc.exe.config
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\vbc.rsp
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\VBCSCompiler.exe
+D:\testvite\test1\Nhom7\Nhom7\bin\roslyn\VBCSCompiler.exe.config
+D:\testvite\test1\Nhom7\Nhom7\bin\Antlr3.Runtime.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\Microsoft.ScriptManager.WebForms.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\Microsoft.Web.Infrastructure.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\Newtonsoft.Json.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\System.Web.Optimization.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\WebGrease.dll
+D:\testvite\test1\Nhom7\Nhom7\bin\System.Web.Optimization.xml
+D:\testvite\test1\Nhom7\Nhom7\bin\Newtonsoft.Json.xml
+D:\testvite\test1\Nhom7\Nhom7\bin\Antlr3.Runtime.pdb
+D:\testvite\test1\Nhom7\Nhom7\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\testvite\test1\Nhom7\Nhom7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\testvite\test1\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.Up2Date
+D:\testvite\test1\Nhom7\Nhom7\obj\Debug\Nhom7.dll
+D:\testvite\test1\Nhom7\Nhom7\obj\Debug\Nhom7.pdb
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Nhom7.dll.config
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Nhom7.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Nhom7.pdb
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csc.exe
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csc.exe.config
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csc.rsp
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csi.exe
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csi.exe.config
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csi.rsp
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.AppContext.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Collections.Immutable.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Console.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.IO.Compression.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.IO.FileSystem.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Net.Http.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Net.Sockets.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.ValueTuple.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Xml.XPath.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\vbc.exe
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\vbc.exe.config
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\vbc.rsp
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\VBCSCompiler.exe
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\VBCSCompiler.exe.config
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Antlr3.Runtime.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.Web.Infrastructure.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Newtonsoft.Json.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\System.Web.Optimization.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\WebGrease.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\System.Web.Optimization.xml
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Newtonsoft.Json.xml
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Antlr3.Runtime.pdb
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.AssemblyReference.cache
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.CoreCompileInputs.cache
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.Up2Date
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\obj\Debug\Nhom7.dll
+D:\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\obj\Debug\Nhom7.pdb
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Nhom7.dll.config
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Nhom7.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Nhom7.pdb
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csc.exe
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csc.exe.config
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csc.rsp
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csi.exe
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csi.exe.config
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\csi.rsp
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.AppContext.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Console.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Net.Http.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\vbc.exe
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\vbc.exe.config
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\vbc.rsp
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Antlr3.Runtime.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Newtonsoft.Json.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\System.Web.Optimization.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\WebGrease.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\System.Web.Optimization.xml
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Newtonsoft.Json.xml
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Antlr3.Runtime.pdb
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.AssemblyReference.cache
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.CoreCompileInputs.cache
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.Up2Date
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\obj\Debug\Nhom7.dll
+C:\Users\Tran Hieu\Downloads\Nhom_7_WebSiteBanSach\Nhom_7_WebSiteBanSach\Nhom7\Nhom7\obj\Debug\Nhom7.pdb

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\KHVT.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KHVT.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\HomePage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HomePage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\ProductDetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductDetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\ProductDetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductDetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Xemdonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Xemdonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\HomePage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HomePage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\ViewSwitcher.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewSwitcher.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\VHNN.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VHNN.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\VHVN.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VHVN.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\TopBanChay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TopBanChay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KHVT.aspx",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\KHVT.aspx",
+              "RelativeDocumentMoniker": "KHVT.aspx",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\KHVT.aspx",
+              "RelativeToolTip": "KHVT.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T10:51:46.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:51:37.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDetail.aspx",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\ProductDetail.aspx",
+              "RelativeDocumentMoniker": "ProductDetail.aspx",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\ProductDetail.aspx",
+              "RelativeToolTip": "ProductDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T10:48:07.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetail.aspx.cs",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\ProductDetail.aspx.cs",
+              "RelativeDocumentMoniker": "ProductDetail.aspx.cs",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\ProductDetail.aspx.cs",
+              "RelativeToolTip": "ProductDetail.aspx.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:48:03.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\HomePage.aspx",
+              "RelativeDocumentMoniker": "HomePage.aspx",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\HomePage.aspx",
+              "RelativeToolTip": "HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T10:46:39.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "HomePage.aspx.cs",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\HomePage.aspx.cs",
+              "RelativeToolTip": "HomePage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:46:36.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Xemdonhang.aspx.cs",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Xemdonhang.aspx.cs",
+              "RelativeDocumentMoniker": "Xemdonhang.aspx.cs",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Xemdonhang.aspx.cs",
+              "RelativeToolTip": "Xemdonhang.aspx.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAEMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:00:12.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewSwitcher.ascx.cs",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\ViewSwitcher.ascx.cs",
+              "RelativeDocumentMoniker": "ViewSwitcher.ascx.cs",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\ViewSwitcher.ascx.cs",
+              "RelativeToolTip": "ViewSwitcher.ascx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:00:07.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VHVN.aspx.cs",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\VHVN.aspx.cs",
+              "RelativeDocumentMoniker": "VHVN.aspx.cs",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\VHVN.aspx.cs",
+              "RelativeToolTip": "VHVN.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:00:05.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VHNN.aspx.cs",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\VHNN.aspx.cs",
+              "RelativeDocumentMoniker": "VHNN.aspx.cs",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\VHNN.aspx.cs",
+              "RelativeToolTip": "VHNN.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:00:02.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:00:00.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TopBanChay.aspx.cs",
+              "DocumentMoniker": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\TopBanChay.aspx.cs",
+              "RelativeDocumentMoniker": "TopBanChay.aspx.cs",
+              "ToolTip": "D:\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\TopBanChay.aspx.cs",
+              "RelativeToolTip": "TopBanChay.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:59:49.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
