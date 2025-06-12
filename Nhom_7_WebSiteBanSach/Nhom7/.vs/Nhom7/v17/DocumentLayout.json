@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|c:\\users\\tran hieu\\downloads\\nhom_7_websitebansach\\nhom_7_websitebansach\\nhom7\\nhom7\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\admin\\quanlydonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\admin\\quanlydonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\admin\\sach.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\admin\\sach.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\admin\\themvasua.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\admin\\themvasua.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\admin\\suasach.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\admin\\suasach.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\admin\\suasach.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\admin\\suasach.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\admin\\themvasua.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\admin\\themvasua.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\scripts\\validation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\scripts\\validation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|c:\\users\\tran hieu\\downloads\\nhom_7_websitebansach\\nhom_7_websitebansach\\nhom7\\nhom7\\admin\\themvasua.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\admin\\themvasua.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\suasach.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:Nhom7\\Admin\\suasach.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\admin\\sach.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\admin\\sach.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\admin\\quanlydonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\admin\\quanlydonhang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|c:\\users\\tran hieu\\downloads\\nhom_7_websitebansach\\nhom_7_websitebansach\\nhom7\\nhom7\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\nhom7\\scripts\\validation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E15DC401-9E32-461E-8286-59E5095A6D83}|Nhom7\\Nhom7.csproj|solutionrelative:nhom7\\scripts\\validation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "themvasua.aspx",
+              "DocumentMoniker": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\themvasua.aspx",
+              "RelativeDocumentMoniker": "Nhom7\\Admin\\themvasua.aspx",
+              "ToolTip": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\themvasua.aspx",
+              "RelativeToolTip": "Nhom7\\Admin\\themvasua.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-12T07:10:33.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Checkout.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Checkout.aspx.cs",
               "RelativeDocumentMoniker": "Nhom7\\Checkout.aspx.cs",
@@ -62,12 +79,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Checkout.aspx",
               "DocumentMoniker": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Checkout.aspx",
               "RelativeDocumentMoniker": "Nhom7\\Checkout.aspx",
@@ -75,47 +88,51 @@
               "RelativeToolTip": "Nhom7\\Checkout.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-10T12:06:39.683Z"
+              "WhenOpened": "2025-06-10T12:06:39.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "quanlydonhang.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\quanlydonhang.aspx.cs",
               "RelativeDocumentMoniker": "Nhom7\\Admin\\quanlydonhang.aspx.cs",
               "ToolTip": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\quanlydonhang.aspx.cs",
               "RelativeToolTip": "Nhom7\\Admin\\quanlydonhang.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAB2AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEwAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T12:02:08.652Z"
+              "WhenOpened": "2025-06-10T12:02:08.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Sach.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\Sach.aspx.cs",
               "RelativeDocumentMoniker": "Nhom7\\Admin\\Sach.aspx.cs",
               "ToolTip": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\Sach.aspx.cs",
               "RelativeToolTip": "Nhom7\\Admin\\Sach.aspx.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:52:10.383Z"
+              "WhenOpened": "2025-06-10T11:52:10.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "themvasua.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\themvasua.aspx.cs",
               "RelativeDocumentMoniker": "Nhom7\\Admin\\themvasua.aspx.cs",
               "ToolTip": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\themvasua.aspx.cs",
               "RelativeToolTip": "Nhom7\\Admin\\themvasua.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB5AAAAAAAAAA==",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAIwNcAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:31:29.01Z"
+              "WhenOpened": "2025-06-10T11:31:29.01Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Nhom7\\Login.aspx.cs",
@@ -123,23 +140,29 @@
               "RelativeToolTip": "Nhom7\\Login.aspx.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:32:20.172Z"
+              "WhenOpened": "2025-06-10T11:32:20.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "suasach.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\suasach.aspx.cs",
               "RelativeDocumentMoniker": "Nhom7\\Admin\\suasach.aspx.cs",
               "ToolTip": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\suasach.aspx.cs",
               "RelativeToolTip": "Nhom7\\Admin\\suasach.aspx.cs",
-              "ViewState": "AgIAAMEAAAAAAAAAAAA1wNoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwGUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:27:33.775Z"
+              "WhenOpened": "2025-06-10T11:27:33.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "validation.js",
               "DocumentMoniker": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Scripts\\validation.js",
               "RelativeDocumentMoniker": "Nhom7\\Scripts\\validation.js",
@@ -147,11 +170,12 @@
               "RelativeToolTip": "Nhom7\\Scripts\\validation.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-10T11:22:19.853Z"
+              "WhenOpened": "2025-06-10T11:22:19.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "suasach.aspx",
               "DocumentMoniker": "C:\\Users\\Tran Hieu\\Downloads\\Nhom_7_WebSiteBanSach\\Nhom_7_WebSiteBanSach\\Nhom7\\Nhom7\\Admin\\suasach.aspx",
               "RelativeDocumentMoniker": "Nhom7\\Admin\\suasach.aspx",
@@ -159,7 +183,8 @@
               "RelativeToolTip": "Nhom7\\Admin\\suasach.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-19T17:04:50.295Z"
+              "WhenOpened": "2024-12-19T17:04:50.295Z",
+              "EditorCaption": ""
             }
           ]
         }

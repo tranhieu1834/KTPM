@@ -37,7 +37,18 @@ namespace Nhom7.Admin
                 }
             }
         }
-
+        private void ClearForm()
+        {
+            txtID.Text = "";
+            txtTenSach.Text = "";
+            txtMoTa.Text = "";
+            txtGia.Text = "";
+            txtSoLuongTon.Text = "";
+            txtNgayXuatBan.Text = "";
+            ddlDanhMuc.SelectedIndex = 0;
+            imgPreview.ImageUrl = ""; // Xóa ảnh preview nếu có
+            lblMessage.Text = "";
+        }
         private void LoadDanhMuc()
         {
 
@@ -69,7 +80,7 @@ namespace Nhom7.Admin
                 cmd.Parameters.AddWithValue("@ID_Sach", idSach);
                 SqlDataReader reader = cmd.ExecuteReader();
 
-                if (reader.Read())
+                if (reader.HasRows && reader.Read())
                 {
                     txtID.Text = reader["ID_Sach"].ToString();
                     txtTenSach.Text = reader["TenSach"].ToString();
@@ -85,6 +96,11 @@ namespace Nhom7.Admin
                         imgPreview.ImageUrl = "~/image/" + reader["Anh"].ToString();
                     }
                 }
+                else
+                {
+                    lblMessage.Text = "Không tìm thấy sách với ID đã cho!";
+                }
+
             }
         }
 
@@ -167,11 +183,7 @@ namespace Nhom7.Admin
                     cmd.Parameters.AddWithValue("@SoLuongTon", txtSoLuongTon.Text);
                     cmd.Parameters.AddWithValue("@NgayXuatBan", txtNgayXuatBan.Text);
                     cmd.Parameters.AddWithValue("@ID_DanhMuc", ddlDanhMuc.SelectedValue);
-
-                    if (fileName != null)
-                    {
-                        cmd.Parameters.AddWithValue("@Anh", fileName);
-                    }
+                    cmd.Parameters.AddWithValue("@Anh", fileName ?? (object)DBNull.Value);
 
                     if (!string.IsNullOrEmpty(txtID.Text))
                     {
@@ -193,6 +205,7 @@ namespace Nhom7.Admin
 
         protected void btnEdit_Click(object sender, EventArgs e)
         {
+            ClearForm(); // ✨ Xóa sạch dữ liệu trước khi load lại
             Button btnEdit = (Button)sender;
             int id = Convert.ToInt32(btnEdit.CommandArgument);
 

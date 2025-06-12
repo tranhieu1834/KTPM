@@ -49,7 +49,7 @@
  </style>
 <div>
      <h2><%# string.IsNullOrEmpty(Request.QueryString["ID_Sach"]) ? "Thêm Sách Mới" : "Sửa Sách" %></h2>
-     <asp:Label ID="lblMessage" runat="server" ForeColor="Red"></asp:Label>
+     <asp:Label ID="lblMessage" runat="server" ForeColor="Red" EnableViewState="true" Visible="true" />
      <asp:Panel ID="pnlEdit" runat="server" CssClass="edit-panel">
          <asp:Label ID="lblID" runat="server" Text="ID Sách: " Visible="false"></asp:Label>
          <asp:TextBox ID="txtID" runat="server" Visible="false"></asp:TextBox>
